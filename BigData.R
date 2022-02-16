@@ -1,3 +1,5 @@
+#The project is based on free data Food Access CSV from the CORGIS Dataset Project
+
 #Libraries
 library(dplyr)
 library(tidyr)
